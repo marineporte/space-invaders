@@ -13,7 +13,9 @@ from random import *
 
 la premiere fonction que je vais coder est celle ui va servir à afficher l'écran de présentation du jeu, avec un 
 def EcranDePresentation():
-j'ai egalement commencé à créé un bouton "commencer" et un bouton "quitter"
+pour cela j'ai utiliser 'global DebutJeu' et j'ai defini la variable 'DebutJeu = 0'
+
+j'ai egalement commencé à créé un bouton 'commencer' et un bouton 'quitter'
 
 
 
