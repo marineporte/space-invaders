@@ -13,7 +13,7 @@ from random import *
 import time
 import pickle
 
-la premiere fonction que je vais coder et celle ui va servir à afficher l'écran de présentation du jeu, avec un 
+la premiere fonction que je vais coder est celle ui va servir à afficher l'écran de présentation du jeu, avec un 
 def EcranDePresentation():
 
 
